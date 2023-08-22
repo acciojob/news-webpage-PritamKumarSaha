@@ -23,7 +23,7 @@ header{
 	justify-content:space-between;
 	flex-direction:row;
 }
-.latest-new-articles{
+.latest-news-section{
 	background:white;
 	width:170%;
 	height:50%;
@@ -31,7 +31,7 @@ header{
 	padding:10px;
 	border-radius:10px;
 }
-.latest-new-articles>ul>li{
+.latest-news-section>ul>li{
 	margin-left:30px
 }
 .main-article{
@@ -42,7 +42,7 @@ header{
 	padding:10px;
 	border-radius:10px;
 }
-.pictorial-news{
+.pictorial-news-section{
 	background:white;
 	width:100%;
 	margin-left:24px;
