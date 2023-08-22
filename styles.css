@@ -28,6 +28,8 @@ header{
 	width:170%;
 	height:50%;
 	margin-left:24px;
+	padding:10px;
+	border-radius:10px;
 }
 .latest-new-articles>ul>li{
 	margin-left:30px
@@ -37,12 +39,16 @@ header{
 	width:200%;
 	height:50%;
 	margin-left:24px;
+	padding:10px;
+	border-radius:10px;
 }
 .pictorial-news{
 	background:white;
 	width:100%;
 	margin-left:24px;
 	margin-right:24px;
+	padding:10px;
+	border-radius:10px;
 	
 }
 h3{
