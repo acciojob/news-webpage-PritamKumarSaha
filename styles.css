@@ -1,12 +1,57 @@
 /*  your css code here. If applicable */
+*{
+	padding:8px;
+	margin:0px;
+}
 body{
 	background-color:#f5f5f5;
+	width:100vw;
+	
 }
 header{
+	height:80px;
+	width:95%;
 	background-color: #011e29;
 	border-radious:20px;
 	margin:10px;
+	color:white;
+	text-align:center;
+	padding-top:28px;
 }
-.latest-news-articles{
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+}
+.latest-new-articles{
+	background:white;
+	width:170%;
+	height:50%;
+	margin-left:24px;
+}
+.latest-new-articles>ul>li{
+	margin-left:30px
+}
+.main-article{
+	background:white;
+	width:200%;
+	height:50%;
+	margin-left:24px;
+}
+.pictorial-news{
+	background:white;
+	width:100%;
+	margin-left:24px;
+	margin-right:24px;
 	
 }
+h3{
+	text-align:center;
+}
+
+
+
+
+
+
+
